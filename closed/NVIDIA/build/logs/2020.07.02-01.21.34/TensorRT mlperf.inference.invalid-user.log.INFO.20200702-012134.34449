@@ -1,0 +1,4 @@
+Log file created at: 2020/07/02 01:21:34
+Running on machine: inference
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0702 01:21:34.683444 34449 main_gnmt_offline.cc:84] Found 1 GPUs

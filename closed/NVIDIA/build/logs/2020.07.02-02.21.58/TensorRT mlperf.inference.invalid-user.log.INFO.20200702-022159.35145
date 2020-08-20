@@ -1,0 +1,5 @@
+Log file created at: 2020/07/02 02:21:59
+Running on machine: inference
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0702 02:21:59.182687 35145 main_gnmt_offline.cc:84] Found 1 GPUs
+I0702 02:21:59.182858 35145 main_gnmt_offline.cc:87] ./build/engines/T4x1/gnmt/Offline/gnmt-Offline-gpu-b128-fp16.plan/config.json

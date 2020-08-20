@@ -1,0 +1,1 @@
+{"T4x1-Offline": {"mobilenet": "Samples per second: 14339.3 and Result is : VALID", "resnet": "Samples per second: 4855.52 and Result is : VALID", "ssd-small": "Samples per second: 4585.56 and Result is : VALID", "ssd-large": "Samples per second: 56.563 and Result is : VALID"}}
